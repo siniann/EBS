@@ -1,0 +1,11 @@
+/* Add application styles & imports to this file! */
+
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.container {
+    padding-top: 20px;
+}
+
+.clear {
+    margin-top: 50px;
+}
